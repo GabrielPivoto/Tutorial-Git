@@ -1,2 +1,3 @@
 # Tutorial-Git
-Tutorial de git
+
+Tutorial de git para as turmas de C206
